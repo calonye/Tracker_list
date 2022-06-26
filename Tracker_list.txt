@@ -1,4 +1,4 @@
-https://github.com/calonye/Tracker_list
+https://github.com/calonye/Tracker_list/blob/main/Tracker_list.txt
 by calonye , 20220626
 ==========================================
 http://1337.abcvg.info:80/announce
