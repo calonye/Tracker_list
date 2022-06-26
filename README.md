@@ -17,8 +17,8 @@
 
 ## 使用方法
 
-- 待补充
-- 
+- 引用 XIU2 作者项目的一段说明
+> - https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8 
 
 ## 项目来源
 
