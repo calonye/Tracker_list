@@ -24,11 +24,11 @@
 
 - 该项目受到以下公共 Tracker 项目的帮助，感谢~
 
-> https://github.com/XIU2/TrackersListCollection
-> https://gitee.com/harvey520/www.yaozuopan.top
-> https://github.com/ngosang/trackerslist （待收集整理）
-> https://newtrackon.com/list （待收集整理）
-> http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt （待收集整理）
-> https://tinytorrent.net/best-torrent-tracker-list-updated （待收集整理）
-> http://www.torrenttrackerlist.com/torrent-tracker-list  （待收集整理）
-> https://github.com/DeSireFire/animeTrackerList  （待收集整理）
+> - https://github.com/XIU2/TrackersListCollection
+> - https://gitee.com/harvey520/www.yaozuopan.top
+> - https://github.com/ngosang/trackerslist （待收集整理）
+> - https://newtrackon.com/list （待收集整理）
+> - http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt （待收集整理）
+> - https://tinytorrent.net/best-torrent-tracker-list-updated （待收集整理）
+> - http://www.torrenttrackerlist.com/torrent-tracker-list  （待收集整理）
+> - https://github.com/DeSireFire/animeTrackerList  （待收集整理）
