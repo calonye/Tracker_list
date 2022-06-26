@@ -18,30 +18,30 @@
 ## 使用方法
 
 - 引用 XIU2 作者项目的一段说明
-> - https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8 
+  > - https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8 
 
 ## 项目来源
 
 - 该项目受到以下公共 Tracker 项目的帮助，感谢~
 
-> - https://github.com/XIU2/TrackersListCollection
-> - https://gitee.com/harvey520/www.yaozuopan.top
-> - https://github.com/ngosang/trackerslist （待收集整理）
-> - https://newtrackon.com/list （待收集整理）
-> - http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt （待收集整理）
-> - https://tinytorrent.net/best-torrent-tracker-list-updated （待收集整理）
-> - http://www.torrenttrackerlist.com/torrent-tracker-list  （待收集整理）
-> - https://github.com/DeSireFire/animeTrackerList  （待收集整理）
+  > - https://github.com/XIU2/TrackersListCollection
+  > - https://gitee.com/harvey520/www.yaozuopan.top
+  > - https://github.com/ngosang/trackerslist （待收集整理）
+  > - https://newtrackon.com/list （待收集整理）
+  > - http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt （待收集整理）
+  > - https://tinytorrent.net/best-torrent-tracker-list-updated （待收集整理）
+  > - http://www.torrenttrackerlist.com/torrent-tracker-list  （待收集整理）
+  > - https://github.com/DeSireFire/animeTrackerList  （待收集整理）
 
 ## 列表手动更新备忘
 
 - 1. Sublime 开启正则匹配；
 - 2. 按F9或者选择菜单： Edit > Sort Lines ，对每行文本进行排序；
 - 3. 删除重复行：
-> - 排序好后，按 Ctrl+H ，调出替换面板
+  > - 排序好后，按 Ctrl+H ，调出替换面板
 - 4. 查找字符串：
-> - `^(.+)$[\r\n](^\1$[\r\n]{0, 1})+`
-> - 注意：确保正则模式开关打开；若不可用，按Alt+R进行切换
+  > - `^(.+)$[\r\n](^\1$[\r\n]{0, 1})+`
+  > - 注意：确保正则模式开关打开；若不可用，按Alt+R进行切换
 - 5. 替换字符串：
-> - `\1\n`
-> - 点击Replace
+  > - `\1\n`
+  > - 点击Replace
