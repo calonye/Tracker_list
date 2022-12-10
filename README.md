@@ -5,7 +5,7 @@
 
 ## Tracker_list
 
-- 
+> - https://github.com/calonye/Tracker_list/blob/main/Tracker_list.txt
 - 针对本人习惯使用，手动添加收集的 racker 服务器，不保障所有通用，优先照顾大而全的前提原则,先保障有连接点，再保障链接速度。
 - 他人请请谨慎使用
 
@@ -26,12 +26,12 @@
 
   > - https://github.com/XIU2/TrackersListCollection
   > - https://gitee.com/harvey520/www.yaozuopan.top
-  > - https://github.com/ngosang/trackerslist （待收集整理）
-  > - https://newtrackon.com/list （待收集整理）
-  > - http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt （待收集整理）
-  > - https://tinytorrent.net/best-torrent-tracker-list-updated （待收集整理）
-  > - http://www.torrenttrackerlist.com/torrent-tracker-list  （待收集整理）
-  > - https://github.com/DeSireFire/animeTrackerList  （待收集整理）
+  > - https://github.com/ngosang/trackerslist
+  > - https://newtrackon.com/list
+  > - http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt
+  > - https://tinytorrent.net/best-torrent-tracker-list-updated
+  > - http://www.torrenttrackerlist.com/torrent-tracker-list
+  > - https://github.com/DeSireFire/animeTrackerList   （AT_all+ATline_all）
 
 ## 列表手动更新备忘
 
