@@ -5,7 +5,7 @@
 
 ## Tracker_list
 
-> - https://github.com/calonye/Tracker_list/blob/main/Tracker_list.txt
+> https://github.com/calonye/Tracker_list/blob/main/Tracker_list.txt
 - 针对本人习惯使用，手动添加收集的 racker 服务器，不保障所有通用，优先照顾大而全的前提原则,先保障有连接点，再保障链接速度。
 - 他人请请谨慎使用
 
