@@ -23,7 +23,7 @@
 ## 项目来源
 
 - 该项目受到以下公共 Tracker 项目的帮助，感谢~
-
+  > - https://github.com/ngosang/trackerslist //2025.04.16 新增
   > - https://github.com/XIU2/TrackersListCollection
   > - https://gitee.com/harvey520/www.yaozuopan.top
   > - https://github.com/ngosang/trackerslist
